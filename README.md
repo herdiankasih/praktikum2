@@ -42,3 +42,4 @@ int i,n,max,min,nilai;
     }
     cout<<"Nilai Terbesar Adalah:" <<max<<"\nNilai Terkecil Adalah:"<<min;
 Ini Hasilnya :
+![screenshoot2](https://user-images.githubusercontent.com/43899109/47134683-c9c91400-d2d7-11e8-9c18-afd6fc318e67.jpg)
